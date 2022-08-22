@@ -87,7 +87,7 @@ font-weight:600;
 cursor:pointer;
 `
 const Info = styled.div`
-margin-left:10rem;
+margin-left:5rem;
 
 `
 export default Recipe;
